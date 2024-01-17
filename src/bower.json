@@ -6,7 +6,7 @@
     "jquery": "2.2.0",
     "jquery-validation": "1.14.0",
     "jquery-validation-unobtrusive": "3.2.6",
-    "lodash": "2.4.2",
+    "lodash": "4.17.21",
     "angular": "1.2.32",
     "moment": "2.9.0"
   }
